@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		005D9C0127CF114A003534FB /* DateTheme2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 005D9C0027CF114A003534FB /* DateTheme2.swift */; };
 		00DB8E5726DA169500277266 /* ThemeTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00DB8E5626DA169500277266 /* ThemeTestApp.swift */; };
 		00DB8E5926DA169500277266 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00DB8E5826DA169500277266 /* ContentView.swift */; };
 		00DB8E5B26DA169700277266 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00DB8E5A26DA169700277266 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		005D9C0027CF114A003534FB /* DateTheme2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DateTheme2.swift; sourceTree = "<group>"; };
 		00DB8E5326DA169500277266 /* ThemeTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ThemeTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		00DB8E5626DA169500277266 /* ThemeTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeTestApp.swift; sourceTree = "<group>"; };
 		00DB8E5826DA169500277266 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 			isa = PBXGroup;
 			children = (
 				00DB8E6626DA16C900277266 /* DateTheme1.swift */,
+				005D9C0027CF114A003534FB /* DateTheme2.swift */,
 			);
 			path = ThemeViews;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				00DB8E5926DA169500277266 /* ContentView.swift in Sources */,
 				00DB8E6726DA16C900277266 /* DateTheme1.swift in Sources */,
+				005D9C0127CF114A003534FB /* DateTheme2.swift in Sources */,
 				00DB8E5726DA169500277266 /* ThemeTestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
